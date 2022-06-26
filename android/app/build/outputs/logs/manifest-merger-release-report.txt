@@ -1,0 +1,431 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:react-native-fs] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_async-storage] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-ble-plx] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-plx/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-gesture-handler] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localization] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-pdf] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-pdf/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-permissions] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3d5687166802129c7b5fdbaf44119513/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/cb8869cbc2645a51401b5eb061661669/jetified-android-pdf-viewer-3.1.0-beta.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d8c71713ee0c38bb7390561a89f2ca7e/jetified-pdfium-android-1.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9893a6f2088f7e3ad661164b00e8fde6/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/130298d21b5fe5d9b780d9231b7748c3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/e963dc06b01419d52d149f6533ce0761/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/554e4e6fcceae86276ddea98ba15fd12/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/61e8c3dd3f1c9e8a51b2521706e01420/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/005e5d1e7f686b3e55e29b1b4f451d67/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a5115a8c4bef1c5dbfabec569085f0ff/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c3ce6cae446811720f6654abfe033a0a/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/90ad4922b75483d195e2fd8b2eb4ea40/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c1c636b0a07cf6ee809121417f329b80/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/6125d512bf97b4d7583a5284466970fc/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b74c269111d4975807f6a9f2efb91b87/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bc4cff36f831376d705311e6b69049fe/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/243b5a6e0222ad24a2a428e8c9dbda8b/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b1effc74fe064a2faa74c99fb473903/jetified-soloader-0.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/84bfb838376e506db9d1793495a25e2e/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9e3f76c75e095d13507f712fb2b757b9/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/782665cf09ddac3b627e2dde3a62744b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/1a69198e50493c88c19a64743b0deb46/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/eb911a350890a57470a87ad5e1f9704d/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9fc47485287b3d9e75406f6361a4ffa4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:2:1-16:12
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8ef2cee880d250c25bb16b16eef387bd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b9686c95255fd3bfc2be8e1d6f7a3bae/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bf9d5c960648599f5e93046b06e7dc8a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b50e534328f96e5e8ca3bf9626741fec/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a60a5264cce854b991cc96ec144a7ffe/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/082854d49371465ec2529fc251eccb9d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/73675c533ff9553a484ba38a87c23dcd/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/4e37b214900aa9c8fc3d156b7247a21c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3b5846ce5eac05bcc01656b0fb00abb4/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/165a03b4944c9059cfa69f23cc1f932b/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/05f7bc4e694f16c48fe9986eecd1533d/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c08422623a470a09fbe5dc1ea85c38ba/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/368b22f742c0f6f29750878cfd4e39df/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bd5e7d618ab496d9038c90c505d87638/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/39b93a1af60c497fc6d9b9f28d7aaecc/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/fa6df2253caccafad13b657aae0cf854/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b4c06e0254857b2f500baec62786d694/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/923cd0b3d7880b14751e3c286b11b552/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/ec5abe4c86508e28d5f7f712923ee695/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/ddb7f6cafae78844d55063ff9173a0c8/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/4724c10f55869287e21d4585821dc1e1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9378d29e760227f2e7b9fbb1ccf03575/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8bebcd3244fe16cddf8c69532d9a0d6d/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/709a208724f8da1d2d21f87d56632e4b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a88cca449b744cd35dd15a2bb6daaefe/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b8648e4523b7bb9e1742ebf1520cfe0/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8e36d5e2548d7c1bb076b3b2cd03d517/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/20585583890ac318465d8d6f5f62f818/jetified-annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.3.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/1046618be4bde879b3774118764f4f4c/jetified-proguard-rules-1.3.3.0/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:5:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-fs] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:8:5-88
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:8:22-85
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-68
+MERGED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-68
+MERGED from [:react-native-ble-plx] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-plx/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-68
+MERGED from [:react-native-ble-plx] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-plx/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-68
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:11:5-68
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:11:5-68
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:11:5-68
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:10:5-73
+MERGED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-74
+MERGED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-74
+MERGED from [:react-native-ble-plx] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-plx/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-74
+MERGED from [:react-native-ble-plx] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-plx/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-74
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:12:5-74
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:12:5-74
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:12:5-74
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:13:5-36:19
+MERGED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3d5687166802129c7b5fdbaf44119513/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3d5687166802129c7b5fdbaf44119513/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/005e5d1e7f686b3e55e29b1b4f451d67/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/005e5d1e7f686b3e55e29b1b4f451d67/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b1effc74fe064a2faa74c99fb473903/jetified-soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b1effc74fe064a2faa74c99fb473903/jetified-soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/368b22f742c0f6f29750878cfd4e39df/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/368b22f742c0f6f29750878cfd4e39df/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/39b93a1af60c497fc6d9b9f28d7aaecc/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/39b93a1af60c497fc6d9b9f28d7aaecc/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/20585583890ac318465d8d6f5f62f818/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/20585583890ac318465d8d6f5f62f818/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/368b22f742c0f6f29750878cfd4e39df/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:roundIcon
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:18:7-46
+	android:largeHeap
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:20:7-31
+	android:icon
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:19:7-34
+	android:theme
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:21:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:14:7-42
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:15:7-38
+activity#com.havenud.MainActivity
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:22:7-34:18
+	android:screenOrientation
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:27:9-45
+	android:label
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:24:9-41
+	android:launchMode
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:26:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:28:9-51
+	android:configChanges
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:25:9-86
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:29:9-33:25
+action#android.intent.action.MAIN
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:30:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:31:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:32:15-79
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:32:23-77
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:35:7-84
+	android:name
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml:35:17-81
+uses-sdk
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-fs] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ble-plx] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-plx/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-ble-plx] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-plx/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-pdf] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-pdf/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pdf] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-pdf/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3d5687166802129c7b5fdbaf44119513/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3d5687166802129c7b5fdbaf44119513/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/cb8869cbc2645a51401b5eb061661669/jetified-android-pdf-viewer-3.1.0-beta.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/cb8869cbc2645a51401b5eb061661669/jetified-android-pdf-viewer-3.1.0-beta.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d8c71713ee0c38bb7390561a89f2ca7e/jetified-pdfium-android-1.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d8c71713ee0c38bb7390561a89f2ca7e/jetified-pdfium-android-1.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9893a6f2088f7e3ad661164b00e8fde6/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9893a6f2088f7e3ad661164b00e8fde6/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/130298d21b5fe5d9b780d9231b7748c3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/130298d21b5fe5d9b780d9231b7748c3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/e963dc06b01419d52d149f6533ce0761/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/e963dc06b01419d52d149f6533ce0761/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/554e4e6fcceae86276ddea98ba15fd12/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/554e4e6fcceae86276ddea98ba15fd12/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [org.webkit:android-jsc:r245459] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/61e8c3dd3f1c9e8a51b2521706e01420/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/61e8c3dd3f1c9e8a51b2521706e01420/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/005e5d1e7f686b3e55e29b1b4f451d67/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/005e5d1e7f686b3e55e29b1b4f451d67/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a5115a8c4bef1c5dbfabec569085f0ff/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a5115a8c4bef1c5dbfabec569085f0ff/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c3ce6cae446811720f6654abfe033a0a/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c3ce6cae446811720f6654abfe033a0a/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/90ad4922b75483d195e2fd8b2eb4ea40/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/90ad4922b75483d195e2fd8b2eb4ea40/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c1c636b0a07cf6ee809121417f329b80/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c1c636b0a07cf6ee809121417f329b80/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/6125d512bf97b4d7583a5284466970fc/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/6125d512bf97b4d7583a5284466970fc/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b74c269111d4975807f6a9f2efb91b87/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b74c269111d4975807f6a9f2efb91b87/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bc4cff36f831376d705311e6b69049fe/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bc4cff36f831376d705311e6b69049fe/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/243b5a6e0222ad24a2a428e8c9dbda8b/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/243b5a6e0222ad24a2a428e8c9dbda8b/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b1effc74fe064a2faa74c99fb473903/jetified-soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b1effc74fe064a2faa74c99fb473903/jetified-soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/84bfb838376e506db9d1793495a25e2e/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/84bfb838376e506db9d1793495a25e2e/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9e3f76c75e095d13507f712fb2b757b9/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9e3f76c75e095d13507f712fb2b757b9/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/782665cf09ddac3b627e2dde3a62744b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/782665cf09ddac3b627e2dde3a62744b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/1a69198e50493c88c19a64743b0deb46/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/1a69198e50493c88c19a64743b0deb46/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/eb911a350890a57470a87ad5e1f9704d/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/eb911a350890a57470a87ad5e1f9704d/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9fc47485287b3d9e75406f6361a4ffa4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9fc47485287b3d9e75406f6361a4ffa4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:7:5-9:41
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8ef2cee880d250c25bb16b16eef387bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8ef2cee880d250c25bb16b16eef387bd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b9686c95255fd3bfc2be8e1d6f7a3bae/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b9686c95255fd3bfc2be8e1d6f7a3bae/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bf9d5c960648599f5e93046b06e7dc8a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bf9d5c960648599f5e93046b06e7dc8a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b50e534328f96e5e8ca3bf9626741fec/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b50e534328f96e5e8ca3bf9626741fec/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a60a5264cce854b991cc96ec144a7ffe/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a60a5264cce854b991cc96ec144a7ffe/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/082854d49371465ec2529fc251eccb9d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/082854d49371465ec2529fc251eccb9d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/73675c533ff9553a484ba38a87c23dcd/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/73675c533ff9553a484ba38a87c23dcd/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/4e37b214900aa9c8fc3d156b7247a21c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/4e37b214900aa9c8fc3d156b7247a21c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3b5846ce5eac05bcc01656b0fb00abb4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3b5846ce5eac05bcc01656b0fb00abb4/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/165a03b4944c9059cfa69f23cc1f932b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/165a03b4944c9059cfa69f23cc1f932b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/05f7bc4e694f16c48fe9986eecd1533d/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/05f7bc4e694f16c48fe9986eecd1533d/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c08422623a470a09fbe5dc1ea85c38ba/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/c08422623a470a09fbe5dc1ea85c38ba/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/368b22f742c0f6f29750878cfd4e39df/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/368b22f742c0f6f29750878cfd4e39df/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bd5e7d618ab496d9038c90c505d87638/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/bd5e7d618ab496d9038c90c505d87638/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/39b93a1af60c497fc6d9b9f28d7aaecc/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/39b93a1af60c497fc6d9b9f28d7aaecc/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/fa6df2253caccafad13b657aae0cf854/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/fa6df2253caccafad13b657aae0cf854/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b4c06e0254857b2f500baec62786d694/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/b4c06e0254857b2f500baec62786d694/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/923cd0b3d7880b14751e3c286b11b552/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/923cd0b3d7880b14751e3c286b11b552/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/ec5abe4c86508e28d5f7f712923ee695/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/ec5abe4c86508e28d5f7f712923ee695/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/ddb7f6cafae78844d55063ff9173a0c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/ddb7f6cafae78844d55063ff9173a0c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/4724c10f55869287e21d4585821dc1e1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/4724c10f55869287e21d4585821dc1e1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9378d29e760227f2e7b9fbb1ccf03575/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/9378d29e760227f2e7b9fbb1ccf03575/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8bebcd3244fe16cddf8c69532d9a0d6d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8bebcd3244fe16cddf8c69532d9a0d6d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/709a208724f8da1d2d21f87d56632e4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/709a208724f8da1d2d21f87d56632e4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a88cca449b744cd35dd15a2bb6daaefe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/a88cca449b744cd35dd15a2bb6daaefe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b8648e4523b7bb9e1742ebf1520cfe0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/7b8648e4523b7bb9e1742ebf1520cfe0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8e36d5e2548d7c1bb076b3b2cd03d517/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/8e36d5e2548d7c1bb076b3b2cd03d517/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/20585583890ac318465d8d6f5f62f818/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/20585583890ac318465d8d6f5f62f818/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.3.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/1046618be4bde879b3774118764f4f4c/jetified-proguard-rules-1.3.3.0/AndroidManifest.xml:8:5-43
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.3.0] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/1046618be4bde879b3774118764f4f4c/jetified-proguard-rules-1.3.3.0/AndroidManifest.xml:8:5-43
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-ble-manager] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-ble-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-53
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanjeevkumar/Projects/Haven Underdeck/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:14:5-88
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:14:5-88
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from [com.github.Polidea:MultiPlatformBleAdapter:d2279e0621b285f2d16382af668ae3981abf0639] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/3c8c07cb56dc30453a5461c4d28b68d6/jetified-MultiPlatformBleAdapter-d2279e0621b285f2d16382af668ae3981abf0639/AndroidManifest.xml:14:29-85
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:15:5-86
+	android:name
+		ADDED from [com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/sanjeevkumar/.gradle/caches/transforms-2/files-2.1/d16628d9902f915cc5d87f1b696875bd/jetified-rxandroidble-1.7.1/AndroidManifest.xml:15:29-83

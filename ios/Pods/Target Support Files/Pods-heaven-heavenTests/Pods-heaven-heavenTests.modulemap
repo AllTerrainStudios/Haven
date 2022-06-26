@@ -1,0 +1,6 @@
+module Pods_heaven_heavenTests {
+  umbrella header "Pods-heaven-heavenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

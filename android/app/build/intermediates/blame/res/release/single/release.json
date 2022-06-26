@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_questionsign.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_questionsign.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_icnotificationalert.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_icnotificationalert.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_003lamp_outline_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_003lamp_outline_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_questionsign.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_questionsign.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_003lamp_outline_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_003lamp_outline_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_003lamp_outline_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_003lamp_outline_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_001lightbulb_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_001lightbulb_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/raw_alert_sound.mp3.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/raw/alert_sound.mp3"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_004ledwhite.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_004ledwhite.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_001lightbulb_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_001lightbulb_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_home.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_home.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/raw_src_utilities_pdf_haven_control_module_wiring_diagram.pdf.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/raw/src_utilities_pdf_haven_control_module_wiring_diagram.pdf"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_004ledwhite.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_004ledwhite.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_003fan_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_003fan_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_004ledwhite.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_004ledwhite.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_arrow.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_arrow.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_plus.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_plus.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_plus.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_plus.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_havenlogo2toneweb.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_havenlogo2toneweb.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_arrow.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_arrow.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_arrow.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_arrow.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_havenlogo2toneweb.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_havenlogo2toneweb.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_home.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_home.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_001lightbulb_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_001lightbulb_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_havenlogo2toneweb.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_havenlogo2toneweb.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_003fan_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_003fan_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_questionsign.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_questionsign.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_home.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_home.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_utilities_assets_icons_plus.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-mdpi/src_utilities_assets_icons_plus.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_utilities_assets_icons_icnotificationalert.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/src_utilities_assets_icons_icnotificationalert.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_003fan_white.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_003fan_white.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/raw_src_utilities_pdf_haven_inst_sheet.pdf.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/raw/src_utilities_pdf_haven_inst_sheet.pdf"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_utilities_assets_icons_icnotificationalert.png.flat",
+        "source": "/Users/sanjeevkumar/Projects/Haven Underdeck/android/app/src/main/res/drawable-xhdpi/src_utilities_assets_icons_icnotificationalert.png"
+    }
+]
